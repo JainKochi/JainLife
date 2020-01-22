@@ -1,5 +1,5 @@
 // List of sentences
-var _CONTENT = [ "what", "the", "fu*k","Jain","Life" ];
+var _CONTENT = [ "What the fu*ck", "Jain", "What the fu*ck","Jain" ];
 
 // Current sentence being processed
 var _PART = 0;
